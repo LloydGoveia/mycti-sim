@@ -33,9 +33,13 @@ Deployment: Single-file artifact capability
 📁 Repository Structure
 
 ├── index.jsx  # Main Application Logic (React)
+
 ├── style.css # Custom CSS and Utility overrides
+
 ├── enhancements/
+
 │   └── payloadFormatter.js # Logic for XML/JSON mirroring
+
 └── README.md # Project Documentation
 
 
