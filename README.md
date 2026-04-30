@@ -56,25 +56,15 @@ const firebaseConfig = {
 📖 Usage
 
 Simulating an Inbound Call
-
 Select Type: Phone Call.
-
 Select Event: Inbound.
-
 Set ANI: Enter the caller's phone number.
-
 Click Notify in Quick Controls to simulate a ringing event.
-
 Click Send Payload to transmit the data to the Service Cloud parent window.
-
 Managing Transcripts
-
 For CHAT or MESSAGE types:
-
 Type a transcript in the text area.
-
 Click Save Current to store it in the cloud.
-
 Use the dropdown to reload saved templates during testing.
 
 📡 Payload Integration
